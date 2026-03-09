@@ -22,8 +22,8 @@ This project is the final year project made by implementing a GA-conditioned dee
 ![Measurement & Calculation](Screenshots/03-measurement-calculation-output.png)
 
 ### Evaluation Metrics
-![Evaluation on Head Circumference Prediction](Screenshots/04-evaluation-HC-performance)
+![Evaluation on Head Circumference Prediction](Screenshots/04-evaluation-HC-performance.png)
 
 ### Evaluation Metrics
-![Evaluation on Gestational Age Estimation](Screenshots/05-evaluation-GA-performance)
+![Evaluation on Gestational Age Estimation](Screenshots/05-evaluation-GA-performance.png)
 
