@@ -13,7 +13,7 @@ This project is an assignment that utilizes Unity Hub Application to explore the
 ## System Screenshots
 
 ### Face Filter
-![Face Filter](Screenshots/01-face-filter.png)
+![Face Filter](Screenshots/01-face-filter.jpg)
 
 
 
