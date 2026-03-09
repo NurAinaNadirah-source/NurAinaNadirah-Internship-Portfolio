@@ -22,16 +22,20 @@ This project is a group of 2 assignment project that create a medical visualizer
 ### System Interface
 ![Interface](Screenshots/01-interface.png)
 
-### Segmentation Result
-![Segmentation](Screenshots/02-segmentation-result.png)
+### Viewing the dataset
+![View Tab](Screenshots/02-view-tab.png)
 
-### Measurement Output
-![Measurement & Calculation](Screenshots/03-measurement-calculation-output.png)
+### Changing Color for better visualization
+![Color Tab](Screenshots/03-color-tab.png)
 
-### Evaluation Metrics
-![Evaluation on Head Circumference Prediction](Screenshots/04-evaluation-HC-performance.png)
+### Segment/Threshold dataset
+![Segment Tab](Screenshots/04-segment-tab.png)
 
-### Evaluation Metrics
-![Evaluation on Gestational Age Estimation](Screenshots/05-evaluation-GA-performance.png)
+### Measuring Distance
+![Measure Distance](Screenshots/05-measure-distance.png)
 
+### Measuring Angle
+![Measure Distance](Screenshots/06-measure-angle.png)
 
+### Rendering the dataset
+![Render Tab](Screenshots/07-render-tab.png)
