@@ -1,7 +1,7 @@
-# Gestational Age Estimation System
+# Advanced DICOM Medical Visualizer
 
 ## Description
-This project is the final year project made by implementing a GA-conditioned deep learning denoising method to enhance the image and a U-Net with a shape regularization segmentation method to measure the head circumference, which later will be used to calculate the gestational age of fetus using Hadlock polynomial from ultrasound image.
+This project is a group of 2 assignment project that create a medical visualizer that accepts DICOM datasets to visualize the dataset with 3D volume rendering, multi-series support, segmentation, and measurement tools built with PyQt5 and VTK.
 
 ## Technologies Used
 - Python
