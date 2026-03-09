@@ -11,4 +11,19 @@ This project is the final year project made by implementing a GA-conditioned dee
 - U-Net Segmentation
 
 ## System Screenshots
-Screenshots are shown below.
+
+### System Interface
+![Interface](Screenshots/01-interface.png)
+
+### Segmentation Result
+![Segmentation](Screenshots/02-segmentation-result.png)
+
+### Measurement Output
+![Measurement & Calculation](Screenshots/03-measurement-calculation-output.png)
+
+### Evaluation Metrics
+![Evaluation on Head Circumference Prediction](Screenshots/04-evaluation-HC-performance)
+
+### Evaluation Metrics
+![Evaluation on Gestational Age Estimation](Screenshots/05-evaluation-GA-performance)
+
