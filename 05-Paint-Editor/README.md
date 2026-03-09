@@ -25,7 +25,7 @@ This project is an assignment to create a Paint Editor that meets the task requi
 ![Change Color Pixel](Screenshots/04-color-pixel.png)
 
 ### Convert color 
-![Change color RGB to HSV](Screenshots/05-color-converte.png)
+![Change color RGB to HSV](Screenshots/05-color-converter.png)
 
 ### Stitching images
 ![Stitched images](Screenshots/06-Image-Stitched.png)
