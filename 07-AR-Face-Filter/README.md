@@ -17,5 +17,5 @@ This project is a task that utilizes Unity Hub Application to explore the functi
 
 
 ## Demo Video
-[![Watch Demo](https://img.youtube.com/vi/UjKh1xNLlhQ?si=mn2onS4jW5fNEcmT/0.jpg)](https://youtube.com/shorts/UjKh1xNLlhQ?si=mn2onS4jW5fNEcmT)
+[![Watch Demo](https://img.youtube.com/vi/UjKh1xNLlhQ/0.jpg)](https://youtube.com/shorts/UjKh1xNLlhQ)
 
