@@ -1,14 +1,19 @@
 # Bouncing Ball Game
 
 ## Description
-This project is an assignment that requires students to creatively design a game centred on a bouncing ball.
+This project is an assignment that requires students to creatively design a game centred on a bouncing ball. The game I made is a 3D bouncing ball game platform with multiple levels featuring a colour-matching mechanism, gravity physics, and score tracking built with PyQt5 and OpenGL.
 
 ## Technologies Used
 - Python
-- Deep Learning
-- CNN
-- CNN Structured Denoising Method
-- U-Net Segmentation
+- PyQt5
+- OpenGL (via PyOpenGL)
+- GLUT (OpenGL Utility Toolkit)
+- GLU (OpenGL Utility Library)
+- Collision Detection Algorithms
+- 2D/3D Game Physics
+- File I/O
+- Random Number Generation
+- Event-Driven Programming
 
 ## System Screenshots
 
