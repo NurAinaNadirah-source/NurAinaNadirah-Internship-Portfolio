@@ -35,6 +35,6 @@ This project is a group of 4 assignment that requires students to create their o
 ![Model Details](Screenshots/05-model-details.png)
 
 ### Camera Setting
-![Camera Setting](Screenshots/06-camera-setting.png)
+![Camera Setting](Screenshots/06-camera-settings.png)
 
 
