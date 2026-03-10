@@ -1,14 +1,14 @@
-# Bouncing Ball Game
+# AR Face Filter
 
 ## Description
-This project is an assignment that utilizes Unity Hub Application to explore the functions from the provided prefab to create a Face Filter App.
+This project is an assignment that utilizes Unity Hub Application to explore the functions from the provided prefab to create a Face Filter App that applies face filters and visual effects using Android's web camera.
 
 ## Technologies Used
-- Python
-- Deep Learning
-- CNN
-- CNN Structured Denoising Method
-- U-Net Segmentation
+- Unity
+- Unity GameObjects
+- Unity Prefabs
+- Android Platform
+- Camera Access 
 
 ## System Screenshots
 
