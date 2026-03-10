@@ -1,14 +1,20 @@
-# Bouncing Ball Game
+# Unity Game
 
 ## Description
-This project is a group of 3 mini projects given to students to design a game, either in 2D or 3D, by utilizing the functions available in Unity, with prefabs from the Unity Store.
+This project is a group of 4 mini project given to students to design a game, either in 2D or 3D, by utilizing the functions available in Unity, with prefabs from the Unity Store. The game my group made is a 2D platform game where the player controls a character navigating through a forest level, collecting mushrooms, defeating enemies, and overcoming obstacles to find the way home.
 
 ## Technologies Used
-- Python
-- Deep Learning
-- CNN
-- CNN Structured Denoising Method
-- U-Net Segmentation
+- Unity
+- C#
+- Unity GameObjects
+- Unity Prefabs
+- Unity Physics System
+- Unity Input Manager
+- Unity Scene Management
+- Unity Audio System
+- nity Material System
+- 2D Game Mechanics
+- PC Platform 
 
 ## System Screenshots
 
