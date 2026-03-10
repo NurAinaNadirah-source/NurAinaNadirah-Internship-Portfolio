@@ -1,7 +1,7 @@
 # 3D Blender
 
 ## Description
-This project is a group of 4, an assignment that requires students to create their own 3D Blender, a visualization application for creating, importing, editing, and exporting 3D objects with material properties, lighting controls, and multi-scene management.
+This project is a group of 4 assignment that requires students to create their own 3D Blender, a visualization application for creating, importing, editing, and exporting 3D objects with material properties, lighting controls, and multi-scene management.
 
 ## Technologies Used
 - Python
