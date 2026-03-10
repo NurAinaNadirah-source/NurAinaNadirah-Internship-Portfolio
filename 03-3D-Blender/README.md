@@ -22,16 +22,19 @@ This project is a group of 4 assignment that requires students to create their o
 ### System Interface
 ![Interface](Screenshots/01-interface.png)
 
+### Showing Grids and Axis
+![Grid](Screenshots/02-grid.png)
+
 ### Material and Shading Setting
-![Material Setting](Screenshots/02-material.png)
+![Material Setting](Screenshots/03-material.png)
 
 ### Lighting Setting
-![Lighting Setting](Screenshots/03-lighting.png)
+![Lighting Setting](Screenshots/04-lighting.png)
 
 ### Model Details
-![Model Details](Screenshots/04-model-details.png)
+![Model Details](Screenshots/05-model-details.png)
 
 ### Camera Setting
-![Camera Setting](Screenshots/05-camera-setting.png)
+![Camera Setting](Screenshots/06-camera-setting.png)
 
 
