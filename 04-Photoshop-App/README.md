@@ -1,14 +1,20 @@
 # Photoshop App
 
 ## Description
-This project is an assignment to create a Photoshop app that meets the task requirements.
+This project is an assignment to create a Photoshop app that meets the task requirements, image editing with drawing tools, filters, edge detection, bit plane slicing, and histogram visualization built with PyQt5 and OpenCV.
 
 ## Technologies Used
 - Python
-- Deep Learning
-- CNN
-- CNN Structured Denoising Method
-- U-Net Segmentation
+- PyQt5
+- OpenCV (cv2)
+- NumPy
+- Matplotlib
+- QGraphicsView Framework
+- QColorDialog
+- QFileDialog
+- QScrollArea
+- Thumbnail Management
+- Ruler Overlay
 
 ## System Screenshots
 
