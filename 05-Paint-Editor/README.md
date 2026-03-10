@@ -5,10 +5,15 @@ This project is an assignment to create a Paint Editor that meets the task requi
 
 ## Technologies Used
 - Python
-- Deep Learning
-- CNN
-- CNN Structured Denoising Method
-- U-Net Segmentation
+- PyQt5
+- OpenCV (cv2)
+- NumPy
+- Matplotlib
+- QGraphicsView Framework
+- QColorDialog
+- QFileDialog
+- QInputDialog
+- Thumbnail Management 
 
 ## System Screenshots
 
