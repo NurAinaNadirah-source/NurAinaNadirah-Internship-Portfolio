@@ -1,30 +1,37 @@
-# Gestational Age Estimation System
+# 3D Blender
 
 ## Description
-This project is the final year project made by implementing a GA-conditioned deep learning denoising method to enhance the image and a U-Net with a shape regularization segmentation method to measure the head circumference, which later will be used to calculate the gestational age of fetus using Hadlock polynomial from ultrasound image.
+This project is a group of 4, an assignment that requires students to create their own 3D Blender, a visualization application for creating, importing, editing, and exporting 3D objects with material properties, lighting controls, and multi-scene management.
 
 ## Technologies Used
 - Python
-- Deep Learning
-- CNN
-- CNN Structured Denoising Method
-- U-Net Segmentation
+- VTK (Visualization Toolkit)
+- PyQt5
+- NumPy
+- 3D File Format Support
+- Scene Management
+- Material and Shading Systems
+- Lighting Controls
+- Camera Controls
+- Object Picking and Selection
+- Export/Import Functionality
+- Model Statistics 
 
 ## System Screenshots
 
 ### System Interface
 ![Interface](Screenshots/01-interface.png)
 
-### Segmentation Result
-![Segmentation](Screenshots/02-segmentation-result.png)
+### Material and Shading Setting
+![Material Setting](Screenshots/02-material.png)
 
-### Measurement Output
-![Measurement & Calculation](Screenshots/03-measurement-calculation-output.png)
+### Lighting Setting
+![Lighting Setting](Screenshots/03-lighting.png)
 
-### Evaluation Metrics
-![Evaluation on Head Circumference Prediction](Screenshots/04-evaluation-HC-performance.png)
+### Model Details
+![Model Details](Screenshots/04-model-details.png)
 
-### Evaluation Metrics
-![Evaluation on Gestational Age Estimation](Screenshots/05-evaluation-GA-performance.png)
+### Camera Setting
+![Camera Setting](Screenshots/05-camera-setting.png)
 
 
