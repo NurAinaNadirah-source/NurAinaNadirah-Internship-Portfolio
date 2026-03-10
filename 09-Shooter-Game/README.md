@@ -1,14 +1,16 @@
 # Shooter Game
 
 ## Description
-This project is an assignment that utilizes the Unity Hub Application to explore the Physics functions available in the app and create a Shooter Game.
+This project is an assignment that utilizes the Unity Hub Application to explore the Physics functions available in the app and create a Shooter Game using Unity, where the player controls a camera to launch spheres at stacked cube formations, with collision-triggered destruction and background music.
 
 ## Technologies Used
-- Python
-- Deep Learning
-- CNN
-- CNN Structured Denoising Method
-- U-Net Segmentation
+- Unity
+- C#
+- Unity GameObjects
+- Unity Prefabs
+- Unity Physics System
+- Unity Input Manager
+- Unity Scene Management
 
 ## System Screenshots
 
