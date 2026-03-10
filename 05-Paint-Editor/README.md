@@ -1,7 +1,7 @@
 # Paint Editor
 
 ## Description
-This project is an assignment to create a Paint Editor that meets the task requirements.
+This project is an assignment to create a Paint Editor that meets the task requirements: an image-editing and drawing application with tools for colour manipulation, geometric transformations, stitching, cropping, and annotation, built with PyQt5 and OpenCV.
 
 ## Technologies Used
 - Python
